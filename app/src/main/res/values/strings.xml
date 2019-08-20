@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QRBarCode</string>
+    <string name="subject">Subject</string>
+    <string name="email_address">Email Address:</string>
+    <string name="body">Body</string>
+    <string name = "send_email">Send Email</string>
+    <string name="add_content_in_the_mail">ADD CONTENT IN THE MAIL</string>
+    <string name="no_barcode_detected">No Barcode Detected</string>
+    <string name = "scan_barcode">Scan Barcode</string>
+</resources>
